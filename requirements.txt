@@ -1,6 +1,6 @@
 streamlit==1.24.0         # Ensure you have the latest or compatible Streamlit version
 requests==2.31.0          # For making HTTP requests
-beautifulsoup4==4.12.2    # For parsing HTML content
+BeautifulSoup4   # For parsing HTML content
 pandas==2.1.1             # For handling dataframes
 gnews==0.2.9              # For fetching Google News
 urllib3==2.0.6            # For downloading images via URL
