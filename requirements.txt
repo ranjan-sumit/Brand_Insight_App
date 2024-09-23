@@ -1,7 +1,4 @@
-streamlit       # Ensure you have the latest or compatible Streamlit version
-requests        # For making HTTP requests
+
 BeautifulSoup4   # For parsing HTML content
-pandas           # For handling dataframes
 gnews            # For fetching Google News
-urllib3           # For downloading images via URL
-shutil                    # Built-in Python library (no need to install)
+
